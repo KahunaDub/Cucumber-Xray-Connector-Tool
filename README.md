@@ -1,1 +1,1 @@
-# Cucumber-XRAY-Connecxtor-Tool
+# Cucumber-XRAY-Connector-Tool
